@@ -1,0 +1,8 @@
+1003|Rahul|Biryani|2|220.0|Delivered
+1002|Priya|Pizza|1|350.0|Preparing
+1006|Madhuchhanda|Chicken Biriyani|1|350.0|Delivered
+1007|Tina|Pizza|2|150.0|Cancelled
+1005|Arjun|Sandwich|3|90.0|Delivered
+1001|Amit|Veg Burger|2|120.0|Delivered
+1004|Neha|Pasta|1|180.0|Out for Delivery
+
