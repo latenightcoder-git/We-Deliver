@@ -113,7 +113,7 @@ def view_single_order(orders, order_id):
         print("Status   :", order[5])
 
 
-# Step 3 - Update status and cancel orders
+# Update status and cancel orders
 def update_order_status(orders, order_id):
     """
     Updates the status of an existing order based on user input.
@@ -288,9 +288,7 @@ def show_sales_report(orders):
     print("==================================")
 
 
-# ---------------------------------------------------------------
-# Step 6 - Demonstrate all 11 list methods
-# ---------------------------------------------------------------
+# Demonstrate all 11 list methods
 def demonstrate_list_methods():
     foods = ["Pizza", "Burger", "Pasta"]
     print("\nOriginal list:", foods)
